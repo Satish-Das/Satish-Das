@@ -1,3 +1,5 @@
+#  Hey, I'm Raghuveer! 👋
+
 # 💫 About Me:
 I’m a final-year B.Tech student in Computer Engineering at RK University, driven by a passion for creating impactful technology solutions. With strong knowledge in Java, JavaScript, and Python, I’ve built full-stack web applications using React.js, Node.js, Express.js, and MongoDB.<br>Through hands-on projects, I’ve implemented RESTful APIs, responsive designs, and Tailwind CSS, gaining practical experience in full-cycle development. These projects have sharpened my problem-solving skills and strengthened my ability to work effectively in teams.<br>I’m continuously deepening my technical skills in Python, JavaScript, and Java, while also developing soft skills such as communication, adaptability, and leadership—essential for team-based environments and long-term growth.<br>I’m eager to start my professional journey and contribute to an organization where I can learn, grow, and deliver value—whether in a Software Developer role or as an Associate Project Manager—by helping create user-focused, high-impact projects.
 
@@ -15,6 +17,8 @@ I’m a final-year B.Tech student in Computer Engineering at RK University, driv
 ![](https://github-contributor-stats.vercel.app/api?username=Satish-Das&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 &emsp; ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Satish-Das&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Satish-Das&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ---
 [![](https://visitcount.itsvg.in/api?id=Satish-Das&icon=0&color=3)](https://visitcount.itsvg.in)
 
