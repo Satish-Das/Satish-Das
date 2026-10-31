@@ -18,7 +18,7 @@ I’m a final-year B.Tech student in Computer Engineering at RK University, driv
 &emsp; ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Satish-Das&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Satish-Das&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[!][](https://github-profile-trophy.vercel.app/?username=Satish-Das&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ---
 [![](https://visitcount.itsvg.in/api?id=Satish-Das&icon=0&color=3)](https://visitcount.itsvg.in)
 
